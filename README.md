@@ -11,14 +11,17 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  
  # Como configurar?
  
+  - Selecione o chatbot responsável que irá receber o template
+  - Selecion qual bloco o cliente vai cair quando ele responder a mensagem que foi enviada
   - Clicar em Ativar Extensão, conforme imagem abaixo:
 
-![image](https://user-images.githubusercontent.com/34819624/208986847-9c3ddc20-3021-469b-8d29-22e13039d43f.png)
+![image](https://user-images.githubusercontent.com/34819624/209019926-47084adc-83d8-42e0-982a-91409993001c.png)
 
   
   - Depois que ativado, click no link abaixo para ativar a extensão no chrome de cada atendente.
   
- ![image](https://user-images.githubusercontent.com/34819624/208986998-e1cdb1cf-fb80-4535-b752-f0bf38586b77.png)
+![image](https://user-images.githubusercontent.com/34819624/209019961-b8f04613-e659-4aad-824d-fc7816af3e9a.png)
+
 
    
    Em seguida, usar no chrome:
