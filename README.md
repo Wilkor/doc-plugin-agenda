@@ -32,7 +32,8 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
   Ao clicar no icone em seu blipDesk, a tela abaixo irá aparecer na lateral direita da tela.
   
-  ![image](https://user-images.githubusercontent.com/34819624/208979368-5bb251c4-1b2b-4031-8440-f02b88657191.png)
+  ![image](https://user-images.githubusercontent.com/34819624/208989661-fd7d7f98-95f5-499e-86c4-f0f829e8cbd5.png)
+
 
   Clicando no menu Agenda, você terá um menu com as opções:
   
