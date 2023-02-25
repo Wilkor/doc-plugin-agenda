@@ -15,6 +15,8 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   - Selecione qual bloco o cliente vai cair quando ele responder à mensagem que foi enviada
   - Clicar em Ativar Extensão, conforme imagem abaixo:
 
+ **Obs**: Você poderá cadastrar multiplos **Routers**
+ 
 ![image](https://user-images.githubusercontent.com/34819624/209019926-47084adc-83d8-42e0-982a-91409993001c.png)
 
   
@@ -48,12 +50,12 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
   Em **Audiência**, você poderá digitar o nome do cliente, telefone e se clicar no botão **Adicionar extras** você também pode colocar uma informação adicional do contato.
   
-  Em **Dados do template**, você poderá adicionar o template que deseja enviar ao cliente.
+  Em **Dados do template**, você poderá selecionar o router e template que deseja enviar ao cliente.
   
-  Em **Dados do envio**, você pode fazer a conferência de todas as informações que digitou anteriormente além de poder optar em enviar a mensagem agora ou agendá-la para um contato futuro.
+  Em **Dados do envio**, você pode fazer a conferência de todas as informações que digitou anteriormente, além de poder optar em enviar a mensagem agora ou agendá-la para um contato futuro.
   
 
-  Por fim, em **Meus agendamentos** você pode consultar todos os contatos que estão agendados, ou seja, qual vai ser a data que eles receberam uma mensagem ativa e cairão para você no seu blipDesk.
+  Por fim, em **Meus agendamentos** você poderá consultar todos os contatos que estão agendados (independente do router selecionado), além é claro de poder cancelar o agendamento ou fazer um reagendamento.
   
   ![image](https://user-images.githubusercontent.com/34819624/216693366-477b2a62-8987-4a59-adef-fd89f81ec49d.png)
 
@@ -72,7 +74,9 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 ![image](https://user-images.githubusercontent.com/34819624/221377437-9de9278d-4c84-4a83-b897-2ca55aca9596.png)
 
-
+ Aqui você também pode conferir o video dele funcionando 👇🏻
+ 
+ https://youtu.be/76sL-Y9Gtmk
 
 
   Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
