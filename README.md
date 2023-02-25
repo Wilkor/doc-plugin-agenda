@@ -59,13 +59,18 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 
   
-  ![image](https://user-images.githubusercontent.com/34819624/216693493-8085d76a-3633-4b2a-b07e-e4900dd44da1.png)
+  ![image](https://user-images.githubusercontent.com/34819624/221377276-1ba3d5e4-1245-41f8-96a7-ec6f97f6521c.png)
+
   
   ![image](https://user-images.githubusercontent.com/34819624/216693587-c38f9dce-de8b-4568-8c2d-b6a70ddc0514.png)
   
   ![image](https://user-images.githubusercontent.com/34819624/216693823-8d81c79f-d9aa-4206-983c-eec5edbfec2b.png)
   
-  ![image](https://user-images.githubusercontent.com/34819624/216693974-5c2a1b15-cb43-4a79-9b2a-a889ab3f10e9.png)
+  ![image](https://user-images.githubusercontent.com/34819624/221377397-22e97ec9-5ae4-4e6e-8e0c-982476f6dedc.png)
+
+ - Ao clicar em **Atualizar** a tela abaixo é apresentada:
+
+![image](https://user-images.githubusercontent.com/34819624/221377437-9de9278d-4c84-4a83-b897-2ca55aca9596.png)
 
 
 
