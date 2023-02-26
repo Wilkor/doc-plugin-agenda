@@ -45,7 +45,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
    - Audiência
    - Dados do Template
    - Dados do Envio
-   - Meus agendamentos
+   - Agendamentos
   
   
   Em **Audiência**, você poderá digitar o nome do cliente, telefone e se clicar no botão **Adicionar extras** você também pode colocar uma informação adicional do contato.
@@ -55,7 +55,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   Em **Dados do envio**, você pode fazer a conferência de todas as informações que digitou anteriormente, além de poder optar em enviar a mensagem agora ou agendá-la para um contato futuro.
   
 
-  Por fim, em **Meus agendamentos** você poderá consultar todos os contatos que estão agendados (independente do router selecionado), além é claro de poder cancelar o agendamento ou fazer um reagendamento.
+  Por fim, em **Agendamentos** você poderá consultar todos os contatos que estão agendados (independente do router selecionado), além é claro de poder cancelar o agendamento ou fazer um reagendamento.
   
   ![image](https://user-images.githubusercontent.com/34819624/216693366-477b2a62-8987-4a59-adef-fd89f81ec49d.png)
 
