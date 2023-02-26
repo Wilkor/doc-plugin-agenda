@@ -68,17 +68,27 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
   ![image](https://user-images.githubusercontent.com/34819624/216693823-8d81c79f-d9aa-4206-983c-eec5edbfec2b.png)
   
-  ![image](https://user-images.githubusercontent.com/34819624/221377397-22e97ec9-5ae4-4e6e-8e0c-982476f6dedc.png)
+  - Nesta sessão você poderá consultar os seus agendamentos ou os agendamentos do contrato
+  
+  ![image](https://user-images.githubusercontent.com/34819624/221423041-f089cc83-a087-4afd-9d9f-e62dfb899e73.png)
+  
+  ![image](https://user-images.githubusercontent.com/34819624/221423133-02c08c80-f760-437e-995d-7d0fb3264812.png)
+
 
  - Ao clicar em **Atualizar** a tela abaixo é apresentada:
 
-![image](https://user-images.githubusercontent.com/34819624/221377437-9de9278d-4c84-4a83-b897-2ca55aca9596.png)
+![image](https://user-images.githubusercontent.com/34819624/221423170-e7004697-6375-461a-9929-206bfd84cc92.png)
+
+- E se clicar em cancelar, teremos a tela abaixo:
+
+![image](https://user-images.githubusercontent.com/34819624/221423246-f6d15eeb-dc3d-4ff2-8b07-7e5d42bd933a.png)
+
 
  Aqui você também pode conferir o video dele funcionando 👇🏻
  
- https://youtu.be/76sL-Y9Gtmk
+ https://youtu.be/ll8rgsJSeuc
 
 
-  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
+ Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
  
-  E-mail: contato@pontoparse.net
+ E-mail: contato@pontoparse.net
