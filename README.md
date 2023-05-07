@@ -86,7 +86,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
  Aqui você também pode conferir o video dele funcionando 👇🏻
  
- https://youtu.be/ll8rgsJSeuc
+ https://youtu.be/AIKkc2feZX8
 
 
  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
