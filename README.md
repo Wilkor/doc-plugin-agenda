@@ -105,9 +105,13 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 
  Aqui você também pode conferir o video dele funcionando + Carteira de Clientes👇🏻
+ 
  Disparo Ativo:
+ 
  https://youtu.be/ll8rgsJSeuc
- Carteira de Clientes
+ 
+ Carteira de Clientes:
+ 
  https://youtu.be/AIKkc2feZX8
 
 
