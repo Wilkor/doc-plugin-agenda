@@ -92,9 +92,12 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  - 3 Na plataforma do blip, na extensão Agenda, o gestor poderá subir uma base com a carteira dos assistente, seguindo o seguinte formato;
  
  Ponto 1 - Consultando a Carteira através do Desk
+ 
  ![image](https://user-images.githubusercontent.com/34819624/236851181-e8f87de7-f728-444a-9639-4c4ef686f748.png)
+ 
  Ao clicar no icone de contato, abrirá a tela abaixo:
- ![image](https://user-images.githubusercontent.com/34819624/236853028-9584e9ac-7045-43b2-bc53-edb53917f3bd.png)
+
+![image](https://user-images.githubusercontent.com/34819624/236853028-9584e9ac-7045-43b2-bc53-edb53917f3bd.png)
 
  Ponto 3 - Inserido a base através da plataforma:
  
