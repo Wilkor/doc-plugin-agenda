@@ -83,9 +83,28 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 ![image](https://user-images.githubusercontent.com/34819624/221423246-f6d15eeb-dc3d-4ff2-8b07-7e5d42bd933a.png)
 
-
- Aqui você também pode conferir o video dele funcionando 👇🏻
+ # Como utilizar a Carterização
  
+  O processo de carterização pode acontecer de 3 formas:
+  
+ - 1 Ao enviar um notificação ativa, através da Agenda, esse contato já fica salvo para o usuário que disparou;
+ - 2 Ao falar com a .parse(), podemos incluir isso no fluxo e ao final do contato, podemos carterizar para o atendente anterior;
+ - 3 Na plataforma do blip, na extensão Agenda, o gestor poderá subir uma base com a carteira dos assistente, seguindo o seguinte formato;
+ 
+ Ponto 1 - Consultando a Carteira através do Desk
+ ![image](https://user-images.githubusercontent.com/34819624/236851181-e8f87de7-f728-444a-9639-4c4ef686f748.png)
+ Ao clicar no icone de contato, abrirá a tela abaixo:
+ ![image](https://user-images.githubusercontent.com/34819624/236853028-9584e9ac-7045-43b2-bc53-edb53917f3bd.png)
+
+ Ponto 3 - Inserido a base através da plataforma:
+ 
+![image](https://user-images.githubusercontent.com/34819624/236853376-9bfd5901-c5a0-420a-8c80-ce2b7e838582.png)
+
+
+ Aqui você também pode conferir o video dele funcionando + Carteira de Clientes👇🏻
+ Disparo Ativo:
+ https://youtu.be/ll8rgsJSeuc
+ Carteira de Clientes
  https://youtu.be/AIKkc2feZX8
 
 
