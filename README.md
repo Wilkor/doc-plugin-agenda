@@ -99,6 +99,13 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 ![image](https://user-images.githubusercontent.com/34819624/236853028-9584e9ac-7045-43b2-bc53-edb53917f3bd.png)
 
+ Ao expandir o contato, você terá a possibilidade de consulta a ultima conversa do usuário:
+ 
+ ![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/31a4cf0a-97e4-4a3b-8e88-f609db9c561b)
+
+![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/f28491a9-7e2e-4479-9b02-88fbaea0e3a4)
+
+
  Ponto 3 - Inserido a base através da plataforma:
  
 ![image](https://user-images.githubusercontent.com/34819624/236853376-9bfd5901-c5a0-420a-8c80-ce2b7e838582.png)
