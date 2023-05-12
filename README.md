@@ -89,7 +89,11 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
  - 1 Ao enviar um notificação ativa, através da Agenda, esse contato já fica salvo para o usuário que disparou;
  - 2 Ao falar com a .parse(), podemos incluir isso no fluxo e ao final do contato, podemos carterizar para o atendente anterior;
- - 3 Na plataforma do blip, na extensão Agenda, o gestor poderá subir uma base com a carteira dos assistente, seguindo o seguinte formato;
+ - 3 Na plataforma do blip, na extensão Agenda, o gestor poderá subir uma base com a carteira dos assistente, seguindo o seguinte formato:
+ 
+ 
+ ![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/24506c60-60df-41a8-a99e-05d54e1d23eb)
+
  
  Ponto 1 - Consultando a Carteira através do Desk
  
