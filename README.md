@@ -115,6 +115,18 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 ![image](https://user-images.githubusercontent.com/34819624/236853376-9bfd5901-c5a0-420a-8c80-ce2b7e838582.png)
 
 
+ # Agenda CRM, como usar?
+
+ ![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/62687983-51ce-40f9-ab39-9729f131bebf)
+
+ ![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/0fe1e382-1bcf-44de-94fa-57cff693490d)
+
+![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/2c72b2d6-5a13-4e0c-939c-fa910793f8b9)
+
+![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/9f836e24-eed4-49d4-ba59-fb6f1749423f)
+
+
+
  Aqui você também pode conferir o video dele funcionando + Carteira de Clientes👇🏻
  
  Disparo Ativo:
