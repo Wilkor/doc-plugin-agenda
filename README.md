@@ -114,6 +114,33 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  
 ![image](https://user-images.githubusercontent.com/34819624/236853376-9bfd5901-c5a0-420a-8c80-ce2b7e838582.png)
 
+# Vincular Setor x Template
+
+ Nesta sessão, temos 3 campos:
+ - Setor
+ - Idioma
+ - Template
+
+No campo **Setor**, você deve colocar o nome do setor de deseja criar;
+No campo idioma, selecione idoma que deseja usar;
+No campo Template, selecione o template de acordo com o filtro acima.
+
+Abaixo, um exemplo de como ficaria essa tela preenchida.
+
+![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/2c865f84-ccea-475f-ab73-653a7c12bade)
+
+# Vincular Agente x Setor 
+
+ Quando a sessão anterior for devidamente configurada, é hora de atrelar o seto ao atendente.
+
+ ![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/43f1b1ad-fc84-4785-ad6b-ecbae8d9f70b)
+
+ ![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/2de91a65-aa70-4190-aeef-9bd96ac9b4b4)
+
+ No final de tudo, ao clicar em **Salvar configuração** você terá uma lista como essa abaixo com os agentes configurados
+
+![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/a278ff5e-513a-4c3b-b71b-af283f07fa6b)
+
 
  # Agenda CRM, como usar?
 
