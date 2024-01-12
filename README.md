@@ -141,7 +141,8 @@ Abaixo, um exemplo de como ficaria essa tela preenchida.
 
 ![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/a278ff5e-513a-4c3b-b71b-af283f07fa6b)
 
-
+ **OBS**: Ainda não é possivel escolher um roteador especifico para cada atendente. 
+ 
  # Agenda CRM, como usar?
 
  ![image](https://github.com/Wilkor/doc-plugin-agenda/assets/34819624/62687983-51ce-40f9-ab39-9729f131bebf)
